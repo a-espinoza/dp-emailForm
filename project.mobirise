@@ -502,7 +502,7 @@
             "@media (max-width: 991px)": {
               ".mbr-figure": {
                 "img": {
-                  "width": "100% !important"
+                  "width": "130% !important"
                 }
               }
             }
